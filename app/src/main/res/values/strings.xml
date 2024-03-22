@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Day5</string>
+    <string name="phone_shop">PHONE SHOP</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="tipe_pelanggan">Tipe Pelanggan</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="biasa">Biasa</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="process">Process</string>
+    <string name="nama">Nama</string>
+    <string name="tipe_pelanggan2">Tipe Pelanggan</string>
+    <string name="kode_barang2">Kode Barang</string>
+    <string name="harga">Harga</string>
+    <string name="jumlah_barang2">Jumlah Barang</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="share">Share</string>
+</resources>

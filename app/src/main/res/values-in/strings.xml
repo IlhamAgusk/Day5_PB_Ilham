@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hari Ke 5</string>
+    <string name="phone_shop">Toko HP</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="tipe_pelanggan">Tipe Pelanggan</string>
+    <string name="gold">Emas</string>
+    <string name="silver">Silver</string>
+    <string name="biasa">Biasa</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="process">Proses</string>
+    <string name="nama">Nama</string>
+    <string name="tipe_pelanggan2">Tipe Pelanggan</string>
+    <string name="kode_barang2">Kode Barang</string>
+    <string name="harga">Harga</string>
+    <string name="jumlah_barang2">Jumlah Barang</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="share">Kirim</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">день 5</string>
+    <string name="phone_shop">Магазин мобильных телефонов</string>
+    <string name="masukkan_nama">Введите имя</string>
+    <string name="tipe_pelanggan">Тип клиента</string>
+    <string name="gold">золото</string>
+    <string name="silver">серебро</string>
+    <string name="biasa">нормальный</string>
+    <string name="nama_barang">название товара</string>
+    <string name="jumlah_barang">количество товара</string>
+    <string name="process">процесс</string>
+    <string name="nama">Имя</string>
+    <string name="tipe_pelanggan2">Тип клиента</string>
+    <string name="kode_barang2">Код товара</string>
+    <string name="harga">цена</string>
+    <string name="jumlah_barang2">количество товара</string>
+    <string name="total_harga">Итоговая цена</string>
+    <string name="share">Отправлять</string>
+</resources>
